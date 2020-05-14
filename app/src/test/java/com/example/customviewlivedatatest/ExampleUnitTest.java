@@ -1,4 +1,4 @@
-package com.example.custumviewlivedatatest;
+package com.example.customviewlivedatatest;
 
 import org.junit.Test;
 

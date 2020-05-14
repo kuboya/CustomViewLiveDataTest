@@ -7,7 +7,7 @@
         <import type="androidx.lifecycle.LiveData"/>
         <variable
             name="activity"
-            type="com.example.custumviewlivedatatest.MainActivity" />
+            type="com.example.customviewlivedatatest.MainActivity" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -25,11 +25,11 @@
             app:layout_constraintTop_toTopOf="parent" />
 
         <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-            xmlns:app="http://schemas.android.com/apk/res/com.example.custumviewlivedatatest"
+            xmlns:app="http://schemas.android.com/apk/res/com.example.customviewlivedatatest"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
-            <com.example.custumviewlivedatatest.MyView
+            <com.example.customviewlivedatatest.MyView
                 android:layout_width="300dp"
                 android:layout_height="300dp"
                 android:background="#ccc"

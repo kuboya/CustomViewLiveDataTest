@@ -1,4 +1,4 @@
-package com.example.custumviewlivedatatest;
+package com.example.customviewlivedatatest;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -9,9 +9,6 @@ import android.graphics.drawable.Drawable;
 import android.text.TextPaint;
 import android.util.AttributeSet;
 import android.view.View;
-
-import androidx.databinding.BindingAdapter;
-import androidx.lifecycle.LiveData;
 
 /**
  * TODO: document your custom view class.
